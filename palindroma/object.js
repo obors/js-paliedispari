@@ -11,10 +11,12 @@ writed.push(check);
 console.log(writed)
 
 function palindromeWord(str){
-  for (var i = 0; i < str.length; i++) {
-    str[i]
-  }
-
+  //mod i
+  // for (var i = 0; i < str.length; i++) {
+  //   str[i]
+  // }
+  str.split(''), reverse(), join('');
+  return str === str.split(''), reverse(), join('');
 }
 
 
