@@ -11,7 +11,9 @@ writed.push(check);
 console.log(writed)
 
 function palindromeWord(str){
-
+  for (var i = 0; i < str.length; i++) {
+    str[i]
+  }
 
 }
 
